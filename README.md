@@ -36,11 +36,7 @@ I am a highly motivated cybersecurity professional with a passion for incident h
 
 ## 📂 Featured Projects & Write-Ups
 
-* 🧸 **[Botium Toys: Security Audit & Risk Assessment](Link-to-repo)** Conducted a comprehensive risk assessment, identifying vulnerabilities in access controls, cryptography, and BCDR plans, while mapping controls to industry compliance standards.
-  
-* ☁️ **[Cloud Security & Incident Handling Practices](Link-to-repo)** *(Placeholder for future project)* Practical write-ups and scripts focused on implementing security fundamentals and responding to modern threats.
-
-* 🔍 **[Digital Forensics Investigations](Link-to-repo)** A collection of practical methodologies demonstrating data extraction and evidence analysis utilizing Autopsy and FTK Imager.
+* 🧸 **[Botium Toys: Security Audit & Risk Assessment](https://github.com/ag1l4n/Security-Audits-and-Governance)** Conducted a comprehensive risk assessment, identifying vulnerabilities in access controls, cryptography, and BCDR plans, while mapping controls to industry compliance standards.
 
 ---
 
