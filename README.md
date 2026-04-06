@@ -16,7 +16,7 @@ I am a highly motivated cybersecurity professional with a passion for incident h
 
 ### Cybersecurity & Forensics
 * **Core Domains:** Incident Handling, Cloud Security, Digital Forensics
-* **Tools & Systems:** Linux, Autopsy, FTK Imager
+* **Tools & Systems:** Linux, Autopsy, FTK Imager, Microsoft Azure, Ansible
 * **Penetration Testing:** Wi-Fi Pentesting, Social Engineering, OWASP Guidelines
 
 ### Programming & Development
