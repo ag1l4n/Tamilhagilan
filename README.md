@@ -37,7 +37,7 @@ I am a highly motivated cybersecurity professional with a passion for incident h
 ## 📂 Featured Projects & Write-Ups
 
 * 🧸 **[Botium Toys: Security Audit & Risk Assessment](https://github.com/ag1l4n/Security-Audits-and-Governance/blob/main/Controls%20and%20Compliance%20Checklist.md)** Conducted a comprehensive risk assessment, identifying vulnerabilities in access controls, cryptography, and BCDR plans, while mapping controls to industry compliance standards. _(Part of Play It Safe: Managing Security Risks course by Google_
-* ☁️🛡️ **[Azure DevSecOps Golden Image Factory Phase 1](https://github.com/ag1l4n/CloudSec/blob/main/Azure%20DevSecOps%20Golden%20Image%20Factory.md)** Engineered an automated Infrastructure as Code (IaC) pipeline on Azure using HashiCorp Packer and Ansible to provision secure, CIS Level 1 hardened Ubuntu and RHEL server templates. 
-
+* ☁️🛡️ **[Azure DevSecOps Golden Image Factory Phase 1](https://github.com/ag1l4n/CloudSec/blob/main/Azure%20DevSecOps%20Golden%20Image%20Factory%20Phase%201.md)** Engineered an automated Infrastructure as Code (IaC) pipeline on Azure using HashiCorp Packer and Ansible to provision secure, CIS Level 1 hardened Ubuntu and RHEL server templates. 
+* ☁️🛡️ **[Azure DevSecOps Golden Image Factory Phase 2](https://github.com/ag1l4n/CloudSec/blob/main/Azure%20DevSecOps%20Golden%20Image%20Factory%20Phase%202.md)** Engineered a fully automated DevSecOps CI/CD pipeline using GitHub Actions, Packer, and Ansible to bake and deploy CIS Level 1 hardened Azure VM images. Implemented automated OpenSCAP compliance scanning with immutable audit trails published directly to GitHub Releases.
 ---
 
